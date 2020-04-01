@@ -5,4 +5,4 @@ Siddhant Tiwary - Front End
 
 Deep Golani - DBA
 
-Nimish Shah - Back End
+Nimish Shah - Back End.
